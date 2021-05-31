@@ -1,15 +1,31 @@
 ### Hi there 👋
 
-<p>My name is Rasmus Svanberg, and I am currently working in <!--ROL ERGO AB--> ???? located in <!--Jönköping, Sweden.-->???</p>
-
-<!-- Fill in more here! -->
-<h3>
-  :nut_and_bolt: Experience
-</h3>
 <hr>
+
+<h4>
+  About me! :smile:
+</h4>
+
+
+<p>
+  My name is Rasmus Svanberg, and I am currently working in <!--ROL ERGO AB--> ???? located in <!--Jönköping, Sweden.-->???.
+  <br>I currently live in Nässjö (Sweden), but plan to move to Vaggeryd (Sweden), in the coming year.
+  
+  - :point_right: Bachelor Degree in Computer Science (Software Engineering and Mobile Platforms), Jönköping University in 2021.
+  <!-- - :point_right:Bachelor Thesis can be found here: (Add Link to Bachelor Thesis?) -->
+  
+  Not finished yet!
+  
+</p>
+
+<hr>
+<!-- Fill in more here! -->
+<h4>
+  :nut_and_bolt: Experience
+</h4>
+
 <!-- FILL IN HERE -->
 Under Construction!
-
 <!--
 <p>
   <img alt="c#" src="https://img.shields.io/badge/C%23-239120?.svg?&logo=c-sharp&logoColor=white">
@@ -33,16 +49,16 @@ Under Construction!
   <img alt="premiere" src="https://aleen42.github.io/badges/src/premiere.svg">
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?.svg?&logo=git&logoColor=white">
   <img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?.svg?&logo=npm&logoColor=white">
+  <img alt="visual-studio-code" src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?.svg?&logo=visual-studio-code&logoColor=white">
 </p>
 -->
-
 <!-- BADGES FROM: https://dev.to/envoy_/150-badges-for-github-pnk -->
 
 <hr>
 <!-- - - - - - - - - - - -->
-<h3>
+<h4>
  :link: Connect with me!
-</h3>
+</h4>
 
 <a href="https://www.linkedin.com/in/rasmus-svanberg-302236198/"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?.svg?&logo=linkedin&logoColor=white"></a>
 <a href="https://www.youtube.com/channel/UCPgp2Xppff12ZQ-8bUgyIng"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?.svg?&logo=youtube&logoColor=white"></a>
