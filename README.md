@@ -11,7 +11,7 @@
   My name is Rasmus Svanberg, and I am currently working in <!--ROL ERGO AB--> ???? located in <!--Jönköping, Sweden.-->???.
   <br>I currently live in Nässjö (Sweden), but plan to move to Vaggeryd (Sweden), in the coming year.
   
-  - :point_right: Bachelor Degree in Computer Science (Software Engineering and Mobile Platforms), Jönköping University in 2021.
+  - :point_right: Bachelor Degree in Computer Science (Software Engineering and Mobile Platforms), <br>School of Engineering @Jönköping University in 2021.
   <!-- - :point_right:Bachelor Thesis can be found here: (Add Link to Bachelor Thesis?) -->
   
   Not finished yet!
