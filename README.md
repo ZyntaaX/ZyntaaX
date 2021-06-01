@@ -3,30 +3,31 @@
 <hr>
 
 <h4>
-  About me! :smile:
+  About me! 😄
 </h4>
 
 
 <p>
-  My name is Rasmus Svanberg, and I am currently working in <!--ROL ERGO AB--> ???? located in <!--Jönköping, Sweden.-->???.
-  <br>I currently live in Nässjö (Sweden), but plan to move to Vaggeryd (Sweden), in the coming year.
+  My name is Rasmus Svanberg, and I am currently studying at Jönköping School of Engineering, where I am studying
+  <br>Computer Science (Software Engineering and Mobile Platforms).<!--working in ROL ERGO AB located in Jönköping, Sweden.-->
   
+  - 🏠 Living in Nässjö, Sweden.
+  - 🐶 Got a small floofer called Zuko, and he's a Mittelspitz!
+  - 🎮 Currently enjoying Unity way to much! 😆
+  
+  <!--
   - :point_right: Bachelor Degree in Computer Science (Software Engineering and Mobile Platforms), <br>School of Engineering @Jönköping University in 2021.
-  <!-- - :point_right:Bachelor Thesis can be found here: (Add Link to Bachelor Thesis?) -->
-  
-  Not finished yet!
-  
+  - :point_right:Bachelor Thesis can be found here: (Add Link to Bachelor Thesis?)
+  -->
 </p>
 
 <hr>
 <!-- Fill in more here! -->
 <h4>
-  :nut_and_bolt: Experience
+  🔩 Experience
 </h4>
 
 <!-- FILL IN HERE -->
-Under Construction!
-<!--
 <p>
   <img alt="c#" src="https://img.shields.io/badge/C%23-239120?.svg?&logo=c-sharp&logoColor=white">
   <img alt="unity" src="https://img.shields.io/badge/Unity-100000?.svg?e&logo=unity&logoColor=white">
@@ -51,13 +52,12 @@ Under Construction!
   <img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?.svg?&logo=npm&logoColor=white">
   <img alt="visual-studio-code" src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?.svg?&logo=visual-studio-code&logoColor=white">
 </p>
--->
 <!-- BADGES FROM: https://dev.to/envoy_/150-badges-for-github-pnk -->
 
 <hr>
 <!-- - - - - - - - - - - -->
 <h4>
- :link: Connect with me!
+ 🔗 Connect with me!
 </h4>
 
 <a href="https://www.linkedin.com/in/rasmus-svanberg-302236198/"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?.svg?&logo=linkedin&logoColor=white"></a>
