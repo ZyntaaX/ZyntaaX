@@ -8,8 +8,8 @@
 
 
 <p>
-  My name is Rasmus Svanberg, and I am currently studying at Jönköping School of Engineering, where I am studying
-  <br>Computer Science (Software Engineering and Mobile Platforms).<!--working in ROL ERGO AB located in Jönköping, Sweden.-->
+  My name is Rasmus Svanberg, and I am currently studying at Jönköping School of Engineering, 
+  <br>where I am studying Computer Science (Software Engineering and Mobile Platforms).<!--working in ROL ERGO AB located in Jönköping, Sweden.-->
   
   🏠 Living in Nässjö, Sweden.<br>
   🐶 Got a small floofer called Zuko, and he's a Mittelspitz!<br>
