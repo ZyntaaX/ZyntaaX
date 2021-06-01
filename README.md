@@ -26,7 +26,10 @@
 <h4>
   🔩 Experience
 </h4>
-I've worked atleast some with these!
+
+<p>I've worked atleast some with these!</p>
+<br>
+
 <!-- FILL IN HERE -->
 <p>
   <img alt="c#" src="https://img.shields.io/badge/C%23-239120?.svg?&logo=c-sharp&logoColor=white">
