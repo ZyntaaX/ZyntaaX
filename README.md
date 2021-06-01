@@ -11,9 +11,9 @@
   My name is Rasmus Svanberg, and I am currently studying at Jönköping School of Engineering, where I am studying
   <br>Computer Science (Software Engineering and Mobile Platforms).<!--working in ROL ERGO AB located in Jönköping, Sweden.-->
   
-  - 🏠 Living in Nässjö, Sweden.
-  - 🐶 Got a small floofer called Zuko, and he's a Mittelspitz!
-  - 🎮 Currently enjoying Unity way to much! 😆
+  🏠 Living in Nässjö, Sweden.<br>
+  🐶 Got a small floofer called Zuko, and he's a Mittelspitz!<br>
+  🎮 Currently enjoying Unity way to much! 😆
   
   <!--
   - :point_right: Bachelor Degree in Computer Science (Software Engineering and Mobile Platforms), <br>School of Engineering @Jönköping University in 2021.
