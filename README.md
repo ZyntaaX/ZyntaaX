@@ -9,8 +9,9 @@
 
 <p>
   My name is Rasmus Svanberg, and I am currently working at ROL Ergo AB located in Jönköping, Sweden.
-  I studied Computer Science (Software Engineering and Mobile Platforms) at the School of Engineering at Jönköping University, 
-  where I graduated in June of 2021
+  
+  I studied Computer Science (Software Engineering and Mobile Platforms) at the School of Engineering 
+  <br>at Jönköping University, where I graduated in June of 2021
   
   🏠 Living in Nässjö, Sweden.<br>
   🐶 Got a small floofer called Zuko, and he's a Mittelspitz!<br>
