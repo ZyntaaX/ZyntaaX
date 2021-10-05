@@ -47,6 +47,7 @@
   <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?.svg?&logo=java&logoColor=white">
   <img alt="swift" src="https://img.shields.io/badge/Swift-FA7343?.svg?&logo=swift&logoColor=white">
   <img alt="kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&.svg?e&logo=kotlin&logoColor=white">
+  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?&.svg?e&logo=flutter&logoColor=white" />
   <img alt="react-native" src="https://img.shields.io/badge/React_Native-20232A?.svg?&logo=react&logoColor=61DAFB">
   <img alt="mongo-db" src="https://img.shields.io/badge/MongoDB-4EA94B?.svg?&logo=mongodb&logoColor=white">
   <img alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?.svg?&logo=sqlite&logoColor=white">
