@@ -8,13 +8,13 @@
 
 
 <p>
-  My name is Rasmus Svanberg, and I am currently working as a software developer at ROL Ergo AB located in Jönköping, Sweden.
+  My name is Rasmus Svanberg, and I am currently working as a software engineer at Divid AB located in Jönköping, Sweden.
   
   I studied Computer Science (Software Engineering and Mobile Platforms) at the School of Engineering 
   <br>at Jönköping University, where I graduated in June of 2021
   
   🏠 Living in Vaggeryd, Sweden.<br>
-  🐶 Got a small floofer called Zuko, and he's a Mittelspitz!<br>
+  🐶 Got a small floofer called Zuko, and another (a little bit larger) floofer called Foxi!<br>
   🎮 Currently enjoying Unity way to much! 😆
   
   <!--
