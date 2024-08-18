@@ -42,6 +42,8 @@
   <img alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?.svg?&logo=c%2B%2B&logoColor=white">
   <img alt="c" src="https://img.shields.io/badge/C-00599C?.svg?&logo=c&logoColor=white">
   <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?.svg?&logo=javascript&logoColor=black">
+  <img alt="typescript" src="https://img.shields.io/badge/TypeScript-007acc?.svg?&logo=TypeScript&logoColor=white">
+  <img alt="react" src="https://img.shields.io/badge/React-20232A?.svg?&logo=react&logoColor=61DAFB">
   <img alt="node.js" src="https://img.shields.io/badge/Node.js-43853D?.svg?&logo=node.js&logoColor=white">
   <img alt="express.js" src="https://img.shields.io/badge/Express.js-404D59?.svg?">
   <img alt ="python" src="https://img.shields.io/badge/Python-14354C?.svg?&logo=python&logoColor=white">
@@ -62,6 +64,8 @@
   <img alt="visual-studio-code" src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?.svg?&logo=visual-studio-code&logoColor=white">
   <img alt="vue.js" src="https://img.shields.io/badge/Vue.js-35495E?.svg?&logo=vue.js&logoColor=4FC08D">
   <img alt="saas" src="https://img.shields.io/badge/Sass-CC6699?.svg?&logo=sass&logoColor=white">
+  <img alt="docker" src="https://img.shields.io/badge/Docker-384d54?.svg?&logo=docker">
+  <img alt="prisma" src="https://img.shields.io/badge/prisma-384d54?.svg?&logo=prisma">
 </p>
 <!-- BADGES FROM: https://dev.to/envoy_/150-badges-for-github-pnk -->
 
