@@ -14,7 +14,8 @@
   <br>at Jönköping University, where I graduated in June of 2021
   
   🏠 Living in Vaggeryd, Sweden.<br>
-  🐶 Got a small floofer called Zuko, and another (a little bit larger) floofer called Foxi!<br>
+  👶 Got a small baby daughter ❤️<br>
+  🐶 Got 3 floofers, Zuko (a mittelspitz), Foxi (a rescue from Russia) & Solo(a Border Collie)<br>
   🎮 Currently enjoying Unity way to much! 😆
   
   <!--
